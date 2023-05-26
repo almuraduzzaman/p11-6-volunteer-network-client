@@ -1,0 +1,53 @@
+[
+    {
+      "eventName": "Clean the Beach",
+      "imageLink": "https://img.freepik.com/free-photo/medium-shot-smiley-kids-playing-together_23-2149479914.jpg?w=996&t=st=1684211882~exp=1684212482~hmac=1fe2693129b822492ddc01f13306337cb70a509e02a0de7ca6eb89c27b46d61f",
+      "colorCode": "#F44336"
+    },
+    {
+      "eventName": "Planting Trees",
+      "imageLink": "https://img.freepik.com/free-photo/full-shot-kid-playing-with-ball_23-2149479954.jpg?t=st=1684211882~exp=1684212482~hmac=e0fab0548c96bf85a1dab3a5b2e44964fd0de381564e32d5e4ab67d068d22471",
+      "colorCode": "#E91E63"
+    },
+    {
+      "eventName": "Food Drive",
+      "imageLink": "https://img.freepik.com/free-photo/volunteers-with-medical-masks-gloves-preparing-donation-boxes-with-provisions_23-2148732677.jpg?w=740&t=st=1684211886~exp=1684212486~hmac=9e46665110e32939b6b7cb178deee52ec048d9d48dbe9604957fbca35a66e8d6",
+      "colorCode": "#9C27B0"
+    },
+    {
+      "eventName": "Homeless Shelter Support",
+      "imageLink": "https://img.freepik.com/free-photo/medium-shot-smiley-kids-playing-together_23-2149479914.jpg?w=996&t=st=1684211882~exp=1684212482~hmac=1fe2693129b822492ddc01f13306337cb70a509e02a0de7ca6eb89c27b46d61f",
+      "colorCode": "#673AB7"
+    },
+    {
+      "eventName": "Teaching Children",
+      "imageLink": "https://img.freepik.com/free-photo/full-shot-kid-playing-with-ball_23-2149479954.jpg?t=st=1684211882~exp=1684212482~hmac=e0fab0548c96bf85a1dab3a5b2e44964fd0de381564e32d5e4ab67d068d22471",
+      "colorCode": "#3F51B5"
+    },
+    {
+      "eventName": "Senior Care",
+      "imageLink": "https://img.freepik.com/free-photo/volunteers-with-medical-masks-gloves-preparing-donation-boxes-with-provisions_23-2148732677.jpg?w=740&t=st=1684211886~exp=1684212486~hmac=9e46665110e32939b6b7cb178deee52ec048d9d48dbe9604957fbca35a66e8d6",
+      "colorCode": "#2196F3"
+    },
+    {
+      "eventName": "Community Cleanup",
+      "imageLink": "https://img.freepik.com/free-photo/medium-shot-smiley-kids-playing-together_23-2149479914.jpg?w=996&t=st=1684211882~exp=1684212482~hmac=1fe2693129b822492ddc01f13306337cb70a509e02a0de7ca6eb89c27b46d61f",
+      "colorCode": "#00BCD4"
+    },
+    {
+      "eventName": "Animal Shelter Volunteer",
+      "imageLink": "https://img.freepik.com/free-photo/full-shot-kid-playing-with-ball_23-2149479954.jpg?t=st=1684211882~exp=1684212482~hmac=e0fab0548c96bf85a1dab3a5b2e44964fd0de381564e32d5e4ab67d068d22471",
+      "colorCode": "#009688"
+    },
+    {
+      "eventName": "Educational Workshop",
+      "imageLink": "https://img.freepik.com/free-photo/volunteers-with-medical-masks-gloves-preparing-donation-boxes-with-provisions_23-2148732677.jpg?w=740&t=st=1684211886~exp=1684212486~hmac=9e46665110e32939b6b7cb178deee52ec048d9d48dbe9604957fbca35a66e8d6",
+      "colorCode": "#4CAF50"
+    },
+    {
+      "eventName": "Healthcare Support",
+      "imageLink": "https://img.freepik.com/free-photo/medium-shot-smiley-kids-playing-together_23-2149479914.jpg?w=996&t=st=1684211882~exp=1684212482~hmac=1fe2693129b822492ddc01f13306337cb70a509e02a0de7ca6eb89c27b46d61f",
+      "colorCode": "#FFC107"
+    }
+  ]
+  
